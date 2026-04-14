@@ -1,3 +1,5 @@
+###我只用x64的版本
+
 # Windows Update Blocker (WUB)
 
 ## 📌 Overview
