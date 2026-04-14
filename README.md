@@ -1,36 +1,39 @@
-###我只用x64的版本
+### 64电脑运行Wubx_64.exe，32电脑运行Wubx.exe
 
 # Windows Update Blocker (WUB)
 
-## 📌 Overview
-Windows Update Blocker (WUB) is a simple and effective tool that allows you to **completely disable** or **re-enable** Windows Updates and related services with a single click. This is useful for users who want full control over Windows updates to prevent unwanted changes, system slowdowns, or forced restarts.
+## 📌 概述
+Windows Update Blocker（WUB）是一款简洁高效的工具，可让您一键**完全禁用**或**重新启用**Windows更新及相关服务。对于希望完全掌控Windows更新、避免意外更改、系统卡顿或强制重启的用户而言，该工具十分实用。
 
-## 🚀 Features
-- ✅ **One-click disable/enable Windows Updates**
-- ✅ **Prevents Windows from automatically re-enabling updates**
-- ✅ **Lightweight and portable (no installation required)**
-- ✅ **Works on Windows 10 & 11**
+## 🚀 功能特性
+- ✅ **一键禁用/启用Windows更新**
+- ✅ **防止Windows自动重新开启更新**
+- ✅ **轻量便携，无需安装**
+- ✅ **支持Windows 10与Windows 11系统**
 
-## 🛠️ How to Use
-### **Disable Windows Updates**
-1. **Run `Wub.exe` as Administrator**
-2. Select **"Disable Updates"**
-3. Click **"Apply Now"**
-4. ✅ Done! Windows Update services are now disabled.
+## 🛠️ 使用方法
+### **禁用Windows更新**
+1. 以管理员身份运行`Wub.exe`
+2. 选择**“禁用更新”**
+3. 点击**“立即应用”**
+4. ✅ 操作完成！Windows更新服务已被禁用。
 
-### **Re-enable Windows Updates**
-1. Open **WUB**
-2. Select **"Enable Updates"**
-3. Click **"Apply Now"**
-4. 🔄 Windows Updates are now restored.
+### **重新启用Windows更新**
+1. 打开WUB
+2. 选择**“启用更新”**
+3. 点击**“立即应用”**
+4. 🔄 Windows更新功能已恢复。
 
-### **Advanced Settings**
-- Click **"Menu" > Service List** to see which Windows services are affected.
-- You can modify `Wub.ini` for additional configurations.
+### **高级设置**
+- 点击**“菜单”>服务列表**，可查看受影响的Windows服务项。
+- 可通过修改`Wub.ini`文件进行更多配置。
 
-## ❗ Important Notes
-- Some third-party applications or Windows Defender may try to re-enable updates.
-- Windows Feature Updates may reset WUB settings—reapply if needed.
+## ❗ 重要提示
+- 部分第三方应用或Windows Defender可能会尝试重新启用更新。
+- Windows功能更新可能会重置WUB设置，如有需要请重新应用。
+
+## 💡 免责声明
+本工具仅用于**教育目的**，使用风险自负。禁用更新可能会使您的系统存在安全漏洞。
 
 
 
